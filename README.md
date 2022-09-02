@@ -1,16 +1,17 @@
-![Мое фото](/photo-resume.jpg)
 [deployed version](https://sanich123.github.io/rsschool-cv/)
 
 # Alexander Voronin
 ***
-### Phone: 
+
+## In touch
+- ### Phone: 
 8 (926) 387-82-17
-### Discord: 
+- ### Discord: 
 sanich123#0564
-### E-mail: 
+- ### E-mail: 
 aovoronin.piano@gmail.com
 ***
-### About me
+## About me
 
 I am a real humanitarian. 
 
@@ -21,12 +22,15 @@ I started learning front-end development about a year ago.
 I really like ReactJS, Redux, but not so much native JavaScript. Especially OOP :) 
 
 Recently started diving into preprocessors, Gulp and responsive layout. Very interesting, but still not clear :)
+
 ***
-### Skills: 
+## Skills: 
 
 HTML(PUG), CSS(Less), JS(React), Redux, БЭМ, Git/NPM, Gulp/Webpack/CRA, Rest API, HTTP
+
+
 ****
-### Example of code:
+## Example of code:
 ```
 var makeFancyString = function(s) {
     let result = '';
@@ -47,9 +51,9 @@ var makeFancyString = function(s) {
 };
 ```
 ***
-### Projects
+## Projects
 
-## CAT'S ENERGY
+- ### CAT'S ENERGY
 
 
 [GitHub](https://github.com/sanich123/CatsEnergy), 
@@ -58,7 +62,7 @@ var makeFancyString = function(s) {
 
 Technologies: **HTML(Pug)**, **CSS(Less)**, **JavaScript**, **Gulp**
 
-## LIGA-BANK
+- ### LIGA-BANK
 
 
 [GitHub](https://github.com/sanich123/ligaBank), 
@@ -67,7 +71,7 @@ Technologies: **HTML(Pug)**, **CSS(Less)**, **JavaScript**, **Gulp**
 
 Technologies: **HTML**, **CSS**, **JavaScript**, **React**, **Typescript**
 
-## GUITAR SHOP
+- ### GUITAR SHOP
 
 
 [GitHub](https://github.com/sanich123/guitarShop), [Vercel](https://guitar-shop-five.vercel.app/catalog:query)
@@ -76,7 +80,7 @@ Technologies: **HTML**, **CSS**, **JavaScript**, **React**, **Typescript**
 Technologies: **React**, **Redux**, **Typescript**, **Jest**, **React Testing Library**
 
 
-## SIX CITIES
+- ### SIX CITIES
 
 
 [GitHub](https://github.com/sanich123/sixCities), [Vercel](https://six-cities-sigma.vercel.app)
@@ -85,7 +89,7 @@ Technologies: **React**, **Redux**, **Typescript**, **Jest**, **React Testing Li
 Technologies: **React**, **Redux**, **Typescript**, **Axios**, **Leaflet**
 
 
-## WHAT-TO-WATCH 
+- ### WHAT-TO-WATCH 
 
 
 [GitHub](https://github.com/sanich123/whatToWatch), [Vercel](https://what-to-watch-two.vercel.app/)
@@ -93,7 +97,7 @@ Technologies: **React**, **Redux**, **Typescript**, **Axios**, **Leaflet**
 Technologies: **React**, **Redux**, **Typescript**, **Jest**, **React Testing Library**
 
 
-## BIG TRIP
+- ### BIG TRIP
 
 
 [GitHub](https://github.com/sanich123/bigTrip), [Vercel](https://big-trip-chi.vercel.app/)
@@ -102,7 +106,7 @@ Technologies: **React**, **Redux**, **Typescript**, **Jest**, **React Testing Li
 Technologies: **JavaScript**, **MVC**, **Leaflet**
 
 
-## TEKHNOMART
+- ### TEKHNOMART
 
 
 [GitHub](https://github.com/sanich123/technomart), [Vercel](https://technomart-one.vercel.app/)
@@ -110,20 +114,20 @@ Technologies: **JavaScript**, **MVC**, **Leaflet**
 
 Technologies: **HTML**, **CSS**, **JavaScript**
 
-# Education
+## Education
 
-[HTMLAcademy. Профессиональная верстка сайтов](https://assets.htmlacademy.ru/certificates/intensive/193/1541333.pdf)
-
-
-[HTMLAcademy. Архитектура клиентских приложений](https://assets.htmlacademy.ru/certificates/intensive/211/1541333.pdf)
+- [HTMLAcademy. Профессиональная верстка сайтов](https://assets.htmlacademy.ru/certificates/intensive/193/1541333.pdf)
 
 
-[HTMLAcademy. JavaScript. Профессиональная разработка веб-интерфейсов](https://assets.htmlacademy.ru/certificates/intensive/205/1541333.pdf)
+- [HTMLAcademy. Архитектура клиентских приложений](https://assets.htmlacademy.ru/certificates/intensive/211/1541333.pdf)
 
 
-[React. Разработка сложных клиентских приложений](https://assets.htmlacademy.ru/certificates/intensive/217/1541333.pdf)
+- [HTMLAcademy. JavaScript. Профессиональная разработка веб-интерфейсов](https://assets.htmlacademy.ru/certificates/intensive/205/1541333.pdf)
 
-# Language
+
+- [React. Разработка сложных клиентских приложений](https://assets.htmlacademy.ru/certificates/intensive/217/1541333.pdf)
+
+## Language
 
 - English(Intermediate)
 - Russian(Native)
