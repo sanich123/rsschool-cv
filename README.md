@@ -1,7 +1,11 @@
+![](https://disk.yandex.ru/i/KhFpid8Jq9xJRA)
+
 # Alexander Voronin
 ***
 ### Phone: 
 8 (926) 387-82-17
+### Discord: 
+sanich123#0564
 ### E-mail: 
 aovoronin.piano@gmail.com
 ***
@@ -117,5 +121,10 @@ Technologies: **HTML**, **CSS**, **JavaScript**
 
 
 [React. Разработка сложных клиентских приложений](https://assets.htmlacademy.ru/certificates/intensive/217/1541333.pdf)
+
+# Language
+
+- English(Intermediate)
+- Russian(Native)
 
 
