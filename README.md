@@ -1,4 +1,4 @@
-![Мое фото](/Фотка резюме.jpg)
+![Мое фото](/photo-resume.jpg)
 
 # Alexander Voronin
 ***
