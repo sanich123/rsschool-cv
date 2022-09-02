@@ -1,6 +1,3 @@
-
-<img src="https://disk.yandex.ru/i/KhFpid8Jq9xJRA" alt="Мое фото">
-
 # Alexander Voronin
 ***
 ### Phone: 
@@ -71,7 +68,7 @@ Technologies: **HTML**, **CSS**, **JavaScript**, **React**, **Typescript**
 [GitHub](https://github.com/sanich123/guitarShop), [Vercel](https://guitar-shop-five.vercel.app/catalog:query)
 
 
-Technologies: **React**, **Redux, **Typescript**, **Jest**, **React Testing Library**
+Technologies: **React**, **Redux**, **Typescript**, **Jest**, **React Testing Library**
 
 
 ## SIX CITIES
@@ -108,7 +105,7 @@ Technologies: **JavaScript**, **MVC**, **Leaflet**
 
 Technologies: **HTML**, **CSS**, **JavaScript**
 
-### Education
+# Education
 
 [HTMLAcademy. Профессиональная верстка сайтов](https://assets.htmlacademy.ru/certificates/intensive/193/1541333.pdf)
 
