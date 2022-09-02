@@ -3,8 +3,11 @@
 
 # Alexander Voronin
 ***
-### Phone: 8 (926) 387-82-17
-### E-mail: aovoronin.piano@gmail.com
+### Phone: 
+8 (926) 387-82-17
+### E-mail: 
+aovoronin.piano@gmail.com
+***
 ### About me
 
 I am a real humanitarian. 
@@ -85,7 +88,7 @@ Technologies: **React**, **Redux**, **Typescript**, **Axios**, **Leaflet**
 
 [GitHub](https://github.com/sanich123/whatToWatch), [Vercel](https://what-to-watch-two.vercel.app/)
 
-Technologies: **React, Redux, Typescript, Jest, React Testing Library
+Technologies: **React**, **Redux**, **Typescript**, **Jest**, **React Testing Library**
 
 
 ## BIG TRIP
@@ -94,7 +97,7 @@ Technologies: **React, Redux, Typescript, Jest, React Testing Library
 [GitHub](https://github.com/sanich123/bigTrip), [Vercel](https://big-trip-chi.vercel.app/)
 
 
-Technologies: **JavaScript, MVC, Leaflet
+Technologies: **JavaScript**, **MVC**, **Leaflet**
 
 
 ## TEKHNOMART
@@ -103,7 +106,7 @@ Technologies: **JavaScript, MVC, Leaflet
 [GitHub](https://github.com/sanich123/technomart), [Vercel](https://technomart-one.vercel.app/)
 
 
-Technologies: **HTML, CSS, JavaScript
+Technologies: **HTML**, **CSS**, **JavaScript**
 
 ### Education
 
