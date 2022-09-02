@@ -1,4 +1,5 @@
 ![Мое фото](/photo-resume.jpg)
+[deployed version](https://sanich123.github.io/rsschool-cv/cv)
 
 # Alexander Voronin
 ***
