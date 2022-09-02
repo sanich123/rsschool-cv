@@ -3,6 +3,11 @@
 # Alexander Voronin
 ***
 
+## [LeetCode](https://leetcode.com/sanich123/)
+
+## [CodeWars](https://www.codewars.com/users/sanich123)
+
+
 ## In touch
 - ### Phone: 
 8 (926) 387-82-17
@@ -10,6 +15,8 @@
 sanich123#0564
 - ### E-mail: 
 aovoronin.piano@gmail.com
+
+
 ***
 ## About me
 
