@@ -62,7 +62,7 @@ Technologies: React, Redux, Typescript, Jest, React Testing Library
 ### SIX CITIES
 
 
-[GitHub](https://github.com/sanich123/sixCities), [Vercel](six-cities-sigma.vercel.app)
+[GitHub](https://github.com/sanich123/sixCities), [Vercel](https://six-cities-sigma.vercel.app)
 
 
 Technologies: React, Redux, Typescript, Axios, Leaflet
