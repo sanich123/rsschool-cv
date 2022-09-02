@@ -33,16 +33,21 @@ var makeFancyString = function(s) {
 ### Projects
 
 ### CAT'S ENERGY
-***
+
+
 [GitHub](https://github.com/sanich123/CatsEnergy), 
 [Vercel](https://cats-energy.vercel.app/)
+
+
 Technologies: HTML(Pug), CSS(Less), JavaScript, Gulp
 ***
 ### LIGA-BANK
-***
+
+
 [GitHub](https://github.com/sanich123/ligaBank), 
 [Vercel](https://liga-bank-rho.vercel.app/)
-***
+
+
 Technologies: HTML, CSS, JavaScript, React, Typescript
 ***
 ### GUITAR SHOP
