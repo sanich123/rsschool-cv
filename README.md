@@ -1,4 +1,4 @@
-![Мое фото](https://disk.yandex.ru/i/EFoDi_Vujvp9tA)
+![Мое фото](/Фотка резюме.jpg)
 
 # Alexander Voronin
 ***
