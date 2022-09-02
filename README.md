@@ -1,4 +1,5 @@
 ![Фотка резюме](https://user-images.githubusercontent.com/70276651/188168183-dbb8592a-ef5e-479b-bc5d-a7bbfef3c062.jpg)
+![Фотка резюме2](./photo-resume.jpg)
 
 # Alexander Voronin
 ***
