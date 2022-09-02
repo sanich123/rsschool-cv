@@ -53,7 +53,7 @@ Technologies: HTML, CSS, JavaScript, React, Typescript
 ### GUITAR SHOP
 
 
-[GitHub](https://github.com/sanich123/guitarShop), [Vercel](guitar-shop-five.vercel.app)
+[GitHub](https://github.com/sanich123/guitarShop), [Vercel](https://guitar-shop-five.vercel.app/catalog:query)
 
 
 Technologies: React, Redux, Typescript, Jest, React Testing Library
