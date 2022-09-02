@@ -32,7 +32,7 @@ var makeFancyString = function(s) {
 ### Projects
 
 CAT'S ENERGY
-[GitHub]("https://github.com/sanich123/CatsEnergy"), [Vercel]('https://cats-energy.vercel.app/')
+[GitHub](https://github.com/sanich123/CatsEnergy), [Vercel](https://cats-energy.vercel.app/)
 Technologies: HTML(Pug), CSS(Less), JavaScript, Gulp
 
 LIGA-BANK
