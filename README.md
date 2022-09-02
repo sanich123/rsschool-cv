@@ -1,4 +1,4 @@
-![](https://disk.yandex.ru/i/KhFpid8Jq9xJRA)
+![Мое фото](https://disk.yandex.ru/i/EFoDi_Vujvp9tA)
 
 # Alexander Voronin
 ***
