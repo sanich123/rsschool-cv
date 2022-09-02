@@ -44,66 +44,66 @@ var makeFancyString = function(s) {
 ***
 ### Projects
 
-### CAT'S ENERGY
+## CAT'S ENERGY
 
 
 [GitHub](https://github.com/sanich123/CatsEnergy), 
 [Vercel](https://cats-energy.vercel.app/)
 
 
-Technologies: HTML(Pug), CSS(Less), JavaScript, Gulp
+Technologies: **HTML(Pug)**, **CSS(Less)**, **JavaScript**, **Gulp**
 
-### LIGA-BANK
+## LIGA-BANK
 
 
 [GitHub](https://github.com/sanich123/ligaBank), 
 [Vercel](https://liga-bank-rho.vercel.app/)
 
 
-Technologies: HTML, CSS, JavaScript, React, Typescript
+Technologies: **HTML**, **CSS**, **JavaScript**, **React**, **Typescript**
 
-### GUITAR SHOP
+## GUITAR SHOP
 
 
 [GitHub](https://github.com/sanich123/guitarShop), [Vercel](https://guitar-shop-five.vercel.app/catalog:query)
 
 
-Technologies: React, Redux, Typescript, Jest, React Testing Library
+Technologies: **React**, **Redux, **Typescript**, **Jest**, **React Testing Library**
 
 
-### SIX CITIES
+## SIX CITIES
 
 
 [GitHub](https://github.com/sanich123/sixCities), [Vercel](https://six-cities-sigma.vercel.app)
 
 
-Technologies: React, Redux, Typescript, Axios, Leaflet
+Technologies: **React**, **Redux**, **Typescript**, **Axios**, **Leaflet**
 
 
-### WHAT-TO-WATCH 
+## WHAT-TO-WATCH 
 
 
 [GitHub](https://github.com/sanich123/whatToWatch), [Vercel](https://what-to-watch-two.vercel.app/)
 
-Technologies: React, Redux, Typescript, Jest, React Testing Library
+Technologies: **React, Redux, Typescript, Jest, React Testing Library
 
 
-### BIG TRIP
+## BIG TRIP
 
 
 [GitHub](https://github.com/sanich123/bigTrip), [Vercel](https://big-trip-chi.vercel.app/)
 
 
-Technologies: JavaScript, MVC, Leaflet
+Technologies: **JavaScript, MVC, Leaflet
 
 
-### TEKHNOMART
+## TEKHNOMART
 
 
 [GitHub](https://github.com/sanich123/technomart), [Vercel](https://technomart-one.vercel.app/)
 
 
-Technologies: HTML, CSS, JavaScript
+Technologies: **HTML, CSS, JavaScript
 
 ### Education
 
