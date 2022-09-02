@@ -5,9 +5,21 @@
 ***
 ### Phone: 8 (926) 387-82-17
 ### E-mail: aovoronin.piano@gmail.com
-### I am a real humanitarian. By basic education - a pianist, graduated from the conservatory. But let's not talk about sad things. I started learning front-end development about a year ago. I really like ReactJS, Redux, but not so much native JavaScript. Especially OOP :) Recently started diving into preprocessors, Gulp and responsive layout. Very interesting, but still not clear :)
+### About me
+
+I am a real humanitarian. 
+
+By basic education - a pianist, graduated from the conservatory. But let's not talk about sad things. 
+
+I started learning front-end development about a year ago. 
+
+I really like ReactJS, Redux, but not so much native JavaScript. Especially OOP :) 
+
+Recently started diving into preprocessors, Gulp and responsive layout. Very interesting, but still not clear :)
 ***
-### Skills: HTML(PUG), CSS(Less), JS(React), Redux, БЭМ, Git/NPM, Gulp/Webpack/CRA, Rest API, HTTP
+### Skills: 
+
+HTML(PUG), CSS(Less), JS(React), Redux, БЭМ, Git/NPM, Gulp/Webpack/CRA, Rest API, HTTP
 ****
 ### Example of code:
 ```
@@ -92,4 +104,18 @@ Technologies: JavaScript, MVC, Leaflet
 
 
 Technologies: HTML, CSS, JavaScript
+
+### Education
+
+[HTMLAcademy. Профессиональная верстка сайтов](https://assets.htmlacademy.ru/certificates/intensive/193/1541333.pdf)
+
+
+[HTMLAcademy. Архитектура клиентских приложений](https://assets.htmlacademy.ru/certificates/intensive/211/1541333.pdf)
+
+
+[HTMLAcademy. JavaScript. Профессиональная разработка веб-интерфейсов](https://assets.htmlacademy.ru/certificates/intensive/205/1541333.pdf)
+
+
+[React. Разработка сложных клиентских приложений](https://assets.htmlacademy.ru/certificates/intensive/217/1541333.pdf)
+
 
