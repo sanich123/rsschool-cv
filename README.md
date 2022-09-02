@@ -1,5 +1,5 @@
 
-![Мое фото]('../../../../Photos%20from%20telegram%20ava/%D0%A4%D0%BE%D1%82%D0%BE%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%202.jpg')
+![Мое фото]('https://disk.yandex.ru/i/KhFpid8Jq9xJRA')
 # Alexander Voronin
 ******
 ### Phone: 8 (926) 387-82-17
@@ -32,7 +32,8 @@ var makeFancyString = function(s) {
 ### Projects
 
 CAT'S ENERGY
-[GitHub](https://github.com/sanich123/CatsEnergy), [Vercel](https://cats-energy.vercel.app/)
+[GitHub](https://github.com/sanich123/CatsEnergy), 
+[Vercel](https://cats-energy.vercel.app/)
 Technologies: HTML(Pug), CSS(Less), JavaScript, Gulp
 
 LIGA-BANK
